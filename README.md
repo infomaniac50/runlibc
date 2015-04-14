@@ -2,6 +2,16 @@
 
 Exposes some functions in libc as executable programs.
 
+### Building ###
+Run build.sh in the top directory.  
+  
+```bash
+bash build.sh
+```
+
+### Usage ###
+So far each program accepts at most one argument or input from stdin. If no arguments are provided input is assumed to come from standard input.
+
 ### License ###
 
 Copyright (C) 2015  Derek Chafin  
