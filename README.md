@@ -10,7 +10,7 @@ bash build.sh
 ```
 
 ### Usage ###
-So far each program accepts at most one argument or input from stdin. If no arguments are provided input is assumed to come from standard input.
+Each program accepts at most one argument. If no arguments are provided input is assumed to come from standard input.
 
 ### License ###
 
